@@ -1,6 +1,23 @@
 body { 
-    font-style: italic; 
-    background-color: gray; 
+    font-family: 'Lexend Exa', sans-serif;
+    background-color: tan; 
     text-align: center; 
 
+}
+
+header { 
+    background-color: ivory; 
+    width: 100%; 
+    height: 75px; 
+    text-align: left; 
+    font-family: 'Beth Ellen', cursive;
+    font-size: 35px; 
+    border-radius: 20px; 
+}
+
+footer { 
+    background-color: ivory; 
+    width: 100%; 
+    height: 75px; 
+    font-family: 'Beth Ellen', cursive;
 }
